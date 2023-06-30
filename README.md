@@ -1,27 +1,21 @@
-<!-- REMODELAR O PROJETO POR MEIO DE:
-
-https://github.com/matheuslanduci/dashgo
-
-
--->
 
 
 
+<!-- VISUALIZAR NO README VSCODE  CTRL + K  V -->
 
-
-<!-- VISUALIZAR NO VSCODE  CTRL + K  V -->
-
-<!-- BADGES https://www.youtube.com/watch?v=cRoBt6AZgjc
+<!-------------------------------------------------------------------->
+<!-- COMO CONSTRUIR BADGES ---------
+<!--------------------------------------------------------------------
+https://www.youtube.com/watch?v=cRoBt6AZgjc
 https://dev.to/envoy_/150-badges-for-github-pnk
 
-BUILD BADGES
-https://shields.io
-ICONS
-https://simpleicons.org/?q=react
+    BUILD 
+      https://shields.io
+    ICONS
+    https://simpleicons.org/?q=react
 
-EXEMPLO
-
- <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+     EXEMPLO
+     <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
 
 # JavaScript - Nome que aparece na Bag
 # logo=JavaScript - Muda a logo vide <https://simpleicons.org/?q=react>
@@ -29,23 +23,32 @@ EXEMPLO
 # logoColor=white - Define a cor do icone
 -->
 
- <!------------------------------------BANNER PROJECT-->
 
+<!-------------------------------------------------------------------->
+ <!------------------------------------BANNER PROJECT----------------->
+<!-------------------------------------- 280 x 1400 ------------------------------>
+# `Banner do Projeto Ex.:`
 ![image](https://user-images.githubusercontent.com/59892368/193427906-5f71205f-5e64-4016-bc10-b583bd2c0615.png)
 
 
 
 
- <!------------------------------------SHIELDS PROJECT-->
+<!-------------------------------------------------------------------->
+ <!------------------------------------BADGES PROJECT  ---------------->
+ <!-------------------------------------------------------------------->
+# `Badges  Ex.:`
+ 
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Dashgo)
   ![GitHub](https://img.shields.io/github/license/digoarthur/Dashgo)
   
   
-
- <!------------------------------------STACKS-->
+<!-------------------------------------------------------------------->
+ <!------------------------------------STACKS && TOOLS --------->
+  <!-------------------------------------------------------------------->
+# `Stacks && Tools  Ex.:`
+  
 #### Stacks:
 <p align="left">
-
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
     <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762514-59814e6d-5cc8-4981-aa11-904b83a51d40.svg"><a/>
@@ -64,13 +67,22 @@ EXEMPLO
   
   
 <hr>
+  <!-------------------------------------------------------------------->
+  <!------------------------------------PROJECT ICON-------------------->
+  <!-------------------------------------------------------------------->
   
-  <!------------------------------------PROJECT ICON-->
+  # `Ícone do projeto (caso tenha )  Ex.:`
   
 <h1 align="center">
   <img width="200" height="150" alt="Dashgo" title="Dashgo" src="https://user-images.githubusercontent.com/59892368/193431566-ca6940c0-e883-4dd9-960b-30b2e89a25ea.svg" />
 </h1>
-   <!------------------------------------SUMMARY-->
+
+
+  # `Sumário  Ex.:`
+
+<!-------------------------------------------------------------------->
+<!------------------------------------SUMMARY------------------------->
+<!-------------------------------------------------------------------->
 <p align="center">
   <a href="https://github.com/DIGOARTHUR/Dashgo#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/DIGOARTHUR/Dashgo#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -79,19 +91,29 @@ EXEMPLO
   <a href="https://github.com/DIGOARTHUR/Dashgo#-por-que--">Por que?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>  
 
+  # `Descrição  Ex.:`
   
-  
-   <!------------------------------------DESCRIPTION-->
+   <!-------------------------------------------------------------------->
+   <!------------------------------------DESCRIPTION--------------------->
+   <!---write here : talk a little about project: what's does, example.  -->
+   
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação 
 
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
 > Essa é uma aplicação voltado para o desenvolvimento de Dashboard que aborda apresentação e exemplo de autenticação de login, implementação de uso de gráficos, crud de usuários, listagem. Aqui o destaque vai para o uso do ChakraUI para estilização, MirageJS para implementar uma API no FrontEnd, Autenticação JTW e o uso do ReactQuery para a otimização de carregamento de dado na página. Aborda também conceitos do Yup (tratamento caixas de entrada), MirageJS (API), Context, Axios, além dos conceitos básicos de ReacjJS como State, Components, Props. Recursos do JS como: Map.
   
-  
+ <!-------------------------------------------------------------------->
 <!------------------------------------LAYOUT -->
+<!-------------------------------------------------------------------->
 
+
+
+
+  # `Projeto no Figma (caso tenha)  Ex.:`
 
 ## FIGMA 
   <a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+ # `Demonstração interfaces (Desktop e/ou Mobile)  Ex.:`
   
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
   
@@ -129,10 +151,10 @@ EXEMPLO
 
 
   
-  
-  
-  <!------------------------------------LIST: STACKS , LIBS & TOOLS-->
-
+  # `Stacks, Tools, Libs + Descrição breve Ex.:`  
+  <!-------------------------------------------------------------------->
+  <!------------------------------------LIST: STACKS , LIBS & TOOLS------->
+  <!-------------------------------------------------------------------->
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
 
 
@@ -173,9 +195,12 @@ EXEMPLO
  ### IDE
  <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
 
- 
-  <!------------------------------------RUN APP-->
- 
+
+  # `Como rodar a aplicação Ex.:`  
+
+   <!-------------------------------------------------------------------->
+  <!------------------------------------RUN APP------------------------->
+   <!-------------------------------------------------------------------->
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
  
 
@@ -215,9 +240,13 @@ git remote -v
 ```
 
 
-  <!------------------------------------WHY/THANKS--->
 
 
+  <!-------------------------------------------------------------------->
+  <!------------------------------------WHY/THANKS--------------------->
+  <!-------------------------------------------------------------------->
+
+  # `Agradecimentos Ex.:`  
 
  # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por que?  <!---write here : motivation that led to created ; why did you do this program?   -->
  Seguindo o curso IGNITE já em reta final, esse foi um dos projetos mais legais dentro  trilha ReactJS. A [@Rocketseat](https://github.com/Rocketseat) sempre trazendo novidades a cada aplicação, ferramentas que abrem fronteiras para aplicação e criatividade em projetos pessoais e profissionais.
